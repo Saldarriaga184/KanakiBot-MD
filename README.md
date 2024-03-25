@@ -65,7 +65,7 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot-MD/master/gata.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Saldarriaga184/KanakiBot-MD/master/gata.sh | bash
 ```
 ```js
 // PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
@@ -98,7 +98,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/GataNina-Li/GataBot-MD && cd GataBot-MD
+git clone https://github.com/Saldarriaga184/KanakiBot-MD && cd GataBot-MD
 ```
 ```bash
 yarn install && npm install
@@ -110,7 +110,7 @@ npm start
 ------------------
 ### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
 > **Note** Descargué y Descomprime
-### [`GataBot-MD ~ Archivos`](https://github.com/GataNina-Li/GataBot-MD/archive/refs/heads/master.zip)
+### [`KanakiBot-MD ~ Archivos`](https://github.com/GataNina-Li/GataBot-MD/archive/refs/heads/master.zip)
 [![blog](https://img.shields.io/badge/Termux-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/UcWlyQ8u5HE)
 ```bash
