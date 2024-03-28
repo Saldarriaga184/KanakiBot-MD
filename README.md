@@ -5,7 +5,6 @@
 ![16856393191121084983916756658229.jpg](https://github.com/Saldarriaga184/KanekiBot-MD/assets/131302001/6ce23c84-af2b-4c89-9463-93bb81b35152)
 
 <!-- RAINBOW LINE BOT -->
-<img
 
 # `👾KanakiBot-MD`
 
