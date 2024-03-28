@@ -124,8 +124,10 @@ npm start
 ```
 
 ### `—◉ 🔥 ACTIVAR EL BOT 24/7 🔥`
-gdhsj
-
+> Ejecutar estos comandos dentro de la carpeta GataBot-MD
+```bash
+termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
+``` 
 
 
  `—◉ 📝 NOTAS 📝`
