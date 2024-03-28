@@ -59,33 +59,17 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 SEGUNDA OPCIÓN ` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
-cd && termux-setup-storage
+termux-setup-storage
 ```
-
 ```bash
-apt-get update -y && apt-get upgrade -y
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
-
 ```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
+git clone https://github.com/Saldarriaga184/KanakiBot-MD && cd KanakiBot-MD
 ```
-
 ```bash
-git clone https://github.com/Saldarriaga184/KanakiBot-Ultra.git && cd KanakiBot-Ultra 
+yarn install && npm install
 ```
-
-```bash
-yarn
-```
-
-```bash
-npm install
-```
-
-```bash
-npm update
-```
-
 ```bash
 npm start
 ```
