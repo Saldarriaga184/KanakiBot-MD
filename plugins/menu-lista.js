@@ -166,7 +166,8 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃
 ┃✅ *_CUENTAS OFICIALES GATABOT_* ✅
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}cuentasgatabot | cuentasgb_
-
+┃✯│▢ᴏᴡɴᴇʀ:D.E.S.N_OFFICIAL17 
+┃✯│▢ɴᴜᴍᴇʀᴏ:Wa.me/593990058725
 *╰━━━━━━━━━━━━━⬣*`.trim()
 await conn.sendFile(m.chat, gataImg, 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu}}}) 
 await conn.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m }) 
