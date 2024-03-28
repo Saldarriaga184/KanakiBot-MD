@@ -51,11 +51,7 @@ termux-setup-storage
 ```
 
 ```bash
-pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget && pkg install yarn
-```
-
-```bash
-wget -O - https://raw.githubusercontent.com/Saldarriaga184/KanakiBot-Ultra/master/install.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Saldarriaga184/KanakiBot-MD/master/gata.sh | bash
 ```
 
 
