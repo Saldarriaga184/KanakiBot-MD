@@ -138,7 +138,7 @@ gdhsj
 
 
 ## `CREADO POR D.E.S.N_OFFICIAL17 ` 
-![16856425346489101313499625675153.jpg](https://github.com/Saldarriaga184/KanakiBot-MD/assets/131302001/3b422bb1-9128-4e1c-976c-35a7f082050b)
+![16856425346489101313499625675153.jpg](https://github.com/Saldarriaga184/KanekiBot-MD/assets/131302001/3b422bb1-9128-4e1c-976c-35a7f082050b)
 
   
 `KanakiBot-MD- By D.E.S.N_OFFICIAL17 `
