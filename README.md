@@ -1,9 +1,10 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <p align="center"> 
 <a href="https://github.com/Saldarriaga184"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=KanakiBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ![16856393191121084983916756658229.jpg](https://github.com/Saldarriaga184/KanekiBot-MD/assets/131302001/6ce23c84-af2b-4c89-9463-93bb81b35152)
 
