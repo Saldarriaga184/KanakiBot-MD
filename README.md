@@ -98,6 +98,9 @@ npm start
 
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
+'''bash 
+> cd
+'''
 ```bash
 > cd KanakiBot-MD 
 ```
@@ -111,20 +114,18 @@ npm start
 
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
-```bash
-> cd KanakiBot-Ultra 
+```bash 
+cd KanakiBot-MD
 ```
-
 ```bash
-> rm -rf MikuSession
+rm -rf GataBotSession
 ```
-
 ```bash
-> npm start
+npm start
 ```
 
 ### `—◉ 🔥 ACTIVAR EL BOT 24/7 🔥`
-> Ejecutar estos comandos dentro de la carpeta GataBot-MD
+> Ejecutar estos comandos dentro de la carpeta KanakiBot-MD
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ``` 
