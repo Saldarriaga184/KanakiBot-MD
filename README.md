@@ -98,9 +98,9 @@ npm start
 
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
-'''bash 
+```bash 
 > cd
-'''
+```
 ```bash
 > cd KanakiBot-MD 
 ```
