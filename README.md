@@ -126,9 +126,13 @@ termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 - EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
 - KANAKIBOT-MD - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## `CREADO POR D.E.S.N_OFFICIAL17 ` 
 ![16856425346489101313499625675153.jpg](https://github.com/Saldarriaga184/KanekiBot-MD/assets/131302001/3b422bb1-9128-4e1c-976c-35a7f082050b)
 
   
 `KanakiBot-MD- By D.E.S.N_OFFICIAL17 `
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
