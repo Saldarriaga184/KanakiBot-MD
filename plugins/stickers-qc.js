@@ -12,9 +12,9 @@ let text
         text = args.slice(0).join(" ")
     } else if (m.quoted && m.quoted.text) {
         text = m.quoted.text
-    } else throw "╰⊱❗️⊱ *𝙇𝙊 𝙐𝙎𝙊́ 𝙈𝘼𝙇 | 𝙐𝙎𝙀𝘿 𝙄𝙏 𝙒𝙍𝙊𝙉𝙂* ⊱❗️⊱╮\n\n𝘼𝙂𝙍𝙀𝙂𝙐𝙀́ 𝙐𝙉 𝙏𝙀𝙓𝙏𝙊 𝙋𝘼𝙍𝘼 𝘾𝙍𝙀𝘼𝙍 𝙀𝙇 𝙎𝙏𝙄𝘾𝙆𝙀𝙍\n\n𝘼𝘿𝘿 𝘼 𝙏𝙀𝙓𝙏 𝙏𝙊 𝘾𝙍𝙀𝘼𝙏𝙀 𝙏𝙃𝙀 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 "
-   if (!text) return m.reply('𝙔 𝙀𝙇 𝙏𝙀𝙓𝙏𝙊?')
-   if (text.length > 30) return m.reply('𝙈𝘼𝙓𝙄𝙈𝙊 30 𝙋𝘼𝙇𝘼𝘽𝙍𝘼𝙎!')
+    } else throw "╰☘‼️⊱ *𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 | 𝚄𝚂𝙴𝙳 𝙸𝚃 𝚆𝚁𝙾𝙽𝙶* ⊱‼️⊱╮\n\n𝙰𝙶𝚁𝙴𝙶𝚄𝙴 𝚄𝙽 𝚃𝙴𝚇𝚃𝙾 𝙿𝙰𝚁𝚀 𝙲𝚁𝙴𝙰𝚁 𝙴𝙻 𝚂𝚃𝙸𝙲𝙺𝙴𝚁\n\n𝙰𝙳𝙳 𝙰 𝚃𝙴𝚇𝚃 𝚃𝙾 𝙲𝚁𝙴𝙰𝚃𝙴 𝚃𝙷𝙴 𝚂𝚃𝙸𝙲𝙺𝙴𝚁 "
+   if (!text) return m.reply('𝚈 𝙴𝙻 𝚃𝙴𝚇𝚃𝙾?')
+   if (text.length > 30) return m.reply('𝙼𝙰𝚇𝙸𝙼𝙾 30 𝙿𝙰𝙻𝙰𝙱𝚁𝙰𝚂!')
     let pp = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://telegra.ph/file/a2ae6cbfa40f6eeea0cf1.jpg')
 
    const obj = {
