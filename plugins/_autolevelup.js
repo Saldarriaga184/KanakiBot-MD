@@ -23,7 +23,7 @@ conn.reply(m.chat, `*╭━⊰ ${username} ⊱━დ*
 *┃ ${lenguajeGB.smsAutoLv5()} ${new Date().toLocaleString('id-ID')}*
 *╰━⊰ ${lenguajeGB.smsAutoLv1()} ⊱━━დ*
 
-*_${lenguajeGB.smsAutoLv6()}_*`, fkontak, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
+*_${lenguajeGB.smsAutoLv6()}_*`, fkontak, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
 /*conn.sendButton(m.chat, '👾 ' + wm, `*╭━⊰ ${username} ⊱━დ*
 *┃ ${lenguajeGB.smsAutoLv2()} ${before}*
 *┃ ${lenguajeGB.smsAutoLv3()} ${user.level}*
@@ -57,7 +57,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 5!!* 🏆
 𓃠 *${especialCant * 1} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 1} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 1} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 1} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
+𓃠 *${especialCant4 * 1} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
 user[especial] += especialCant * 1
 user[especial2] += especialCant2 * 1
 user[especial3] += especialCant3 * 1
@@ -68,7 +68,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 10!!* 🏆
 𓃠 *${especialCant * 1} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 1} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 1} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 1} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
+𓃠 *${especialCant4 * 1} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
 user[especial] += especialCant * 1
 user[especial2] += especialCant2 * 1
 user[especial3] += especialCant3 * 1
@@ -79,7 +79,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 15!!* 🏆
 𓃠 *${especialCant * 2} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 2} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 2} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 2} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
+𓃠 *${especialCant4 * 2} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
 user[especial] += especialCant * 2
 user[especial2] += especialCant2 * 2
 user[especial3] += especialCant3 * 2
@@ -90,7 +90,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 20!!* 🏆
 𓃠 *${especialCant * 2} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 2} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 2} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 2} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb}}}) 
+𓃠 *${especialCant4 * 2} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb}}}) 
 user[especial] += especialCant * 2
 user[especial2] += especialCant2 * 2
 user[especial3] += especialCant3 * 2
@@ -101,7 +101,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 25!!* 🏆
 𓃠 *${especialCant * 3} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 3} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 3} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 3} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 3} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 3
 user[especial2] += especialCant2 * 3
 user[especial3] += especialCant3 * 3
@@ -112,7 +112,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 30!!* 🏆
 𓃠 *${especialCant * 3} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 3} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 3} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 3} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 3} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 3
 user[especial2] += especialCant2 * 3
 user[especial3] += especialCant3 * 3
@@ -123,7 +123,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 35!!* 🏆
 𓃠 *${especialCant * 4} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 4} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 4} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 4} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 4} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 4
 user[especial2] += especialCant2 * 4
 user[especial3] += especialCant3 * 4
@@ -134,7 +134,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 40!!* 🏆
 𓃠 *${especialCant * 4} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 4} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 4} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 4} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 4} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 4
 user[especial2] += especialCant2 * 4
 user[especial3] += especialCant3 * 4
@@ -145,7 +145,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 45!!* 🏆
 𓃠 *${especialCant * 4} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 4} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 4} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 4} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 4} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 4
 user[especial2] += especialCant2 * 4
 user[especial3] += especialCant3 * 4
@@ -156,7 +156,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 50!!* 🏆
 𓃠 *${especialCant * 5} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 5} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 5} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 5} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 5} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 5
 user[especial2] += especialCant2 * 5
 user[especial3] += especialCant3 * 5
@@ -167,7 +167,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 55!!* 🏆
 𓃠 *${especialCant * 5} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 5} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 5} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 5} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 5} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 5
 user[especial2] += especialCant2 * 5
 user[especial3] += especialCant3 * 5
@@ -178,7 +178,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 60!!* 🏆
 𓃠 *${especialCant * 5} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 5} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 5} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 5} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 5} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 5
 user[especial2] += especialCant2 * 5
 user[especial3] += especialCant3 * 5
@@ -189,7 +189,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 65!!* 🏆
 𓃠 *${especialCant * 5} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 5} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 5} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 5} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 5} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 5
 user[especial2] += especialCant2 * 5
 user[especial3] += especialCant3 * 5
@@ -200,7 +200,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 70!!* 🏆
 𓃠 *${especialCant * 6} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 6} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 6} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 6} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 6} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 6
 user[especial2] += especialCant2 * 6
 user[especial3] += especialCant3 * 6
@@ -211,7 +211,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 75!!* 🏆
 𓃠 *${especialCant * 6} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 6} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 6} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 6} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+𓃠 *${especialCant4 * 6} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 user[especial] += especialCant * 6
 user[especial2] += especialCant2 * 6
 user[especial3] += especialCant3 * 6
