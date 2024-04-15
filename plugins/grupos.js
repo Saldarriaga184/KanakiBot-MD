@@ -32,7 +32,7 @@ let str = `╭─────────────◆
 ┃✯╭──────────◆
 ┃✯│༺💥༄●⃝𝙈𝙪𝙡𝙩𝙞𝙫𝙚𝙧𝙨𝙤 𝘽𝙤𝙩👾✨𝙎𝙤𝙥𝙤𝙧𝙩𝙚💥༻
 ┃✯│https://chat.whatsapp.com/DO5kkH1CMDwGkeiI0CCs13
-┃✯│༄●⃝𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙐𝙡𝙩𝙧𝙖✨👾
+┃✯│༄●⃝𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿✨👾
 ┃✯│https://chat.whatsapp.com/GpuqinGFZW29nmdRgghz2C
 ┃✯│✞ঔৣ𝙏𝙍𝘼𝙋 𝘼𝙍𝙂𝙀𝙉𝙏𝙄𝙉𝙊𝙎ঔৣ✞🥀🇦🇷
 ┃✯│https://chat.whatsapp.com/EQKEReB0RVl3wvkq7HkpqT
@@ -40,10 +40,10 @@ let str = `╭─────────────◆
 ┃✯│https://chat.whatsapp.com/JCyjejaZRMcEehHY5MhgZh
 ┃✯│✨𝙏𝙍𝘼𝙋 𝘿𝙐𝙆𝙄 𝙎𝙎𝙅🇦🇷
 ┃✯│https://chat.whatsapp.com/HHPofHadzZz5rCBiNerAcP
-┃✯│⿴⃟ٍࣽ➤
-┃✯│⿴⃟ٍࣽ➤
-┃✯│⿴⃟ٍࣽ➤
-┃✯│⿴⃟ٍࣽ➤
+┃✯│☘𝚅𝙸𝚁𝚃𝚄𝙰𝙻𝙴𝚂😻🌹
+┃✯│https://chat.whatsapp.com/I6TFnp58CIDE7bKUS3UPBM
+┃✯│
+┃✯│
 ┃✯│𝙆𝘼𝙉𝘼𝙆𝙄𝘽𝙊𝙏/𝘼𝘾𝙏𝙐𝘼𝙇𝙄𝙕𝘼𝘾𝙄𝙊𝙉𝙀𝙎 👾💫
 ┃✯│https://chat.whatsapp.com/KnmflygkQdKBPPfiFMmkIb
 ┃✯│𝙋á𝙜𝙞𝙣𝙖 𝙙𝙚 𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠 
