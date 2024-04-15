@@ -17,7 +17,7 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `╭─────────────◆
-┃✯༄●⃝𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙐𝙡𝙩𝙧𝙖
+┃✯༄●⃝𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿
 ┃✯-𝗛ᴏʟᴀ,➟${taguser}
 ┃✯🍁᭢━━━━━━━━━᭥🍁᭢
 ┃✯│▢ᴏᴡɴᴇʀ:D.E.S.N_OFFICIAL17 
@@ -47,9 +47,10 @@ let str = `╭─────────────◆
 ┃✯│𝙆𝘼𝙉𝘼𝙆𝙄𝘽𝙊𝙏/𝘼𝘾𝙏𝙐𝘼𝙇𝙄𝙕𝘼𝘾𝙄𝙊𝙉𝙀𝙎 👾💫
 ┃✯│https://chat.whatsapp.com/KnmflygkQdKBPPfiFMmkIb
 ┃✯│𝙋á𝙜𝙞𝙣𝙖 𝙙𝙚 𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠 
-┃✯│https://www.facebook.com/groups/987464505464904/?ref=share
+┃✯│https://www.facebook.com/daniel.saldarriaga.125
 ┃✯│𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚈𝚘𝚞𝚃𝚞𝚋𝚎
 ┃✯│https://www.youtube.com/@d.e.s.n_offcial17
+*┃✯│SUSCRIBETE A MI CANAL DE YOUTÚBE SE TE AGRADECE MUCHO🥺❤️‍🩹*
 ╰━━━━━━━━━━━──⊷
 ᴏᴡɴᴇʀ:ᴏғᴄ➟D.E.S.N_OFFICIAL17 
 ɴᴜᴍᴇʀᴏ:Wa.me/593968711217`.trim()
