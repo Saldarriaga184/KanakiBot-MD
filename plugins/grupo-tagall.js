@@ -10,7 +10,7 @@ for (let mem of participants) {
 teks += `┃⊹ @${mem.id.split('@')[0]}\n`}
 teks += `┃\n`
 teks += `┃ ${wm}\n`
-teks += `╰━━━━━[ *𓃠 ${vs}* ]━━━━━⬣`
+teks += `╰━━━━━[ *☯ ${vs}* ]━━━━━⬣`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )  
 }
 handler.command = /^(tagall|invocar|invocacion|todos|invocación)$/i
