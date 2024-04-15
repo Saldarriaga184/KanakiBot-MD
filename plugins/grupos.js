@@ -42,8 +42,8 @@ let str = `╭─────────────◆
 ┃✯│https://chat.whatsapp.com/HHPofHadzZz5rCBiNerAcP
 ┃✯│☘𝚅𝙸𝚁𝚃𝚄𝙰𝙻𝙴𝚂😻🌹
 ┃✯│https://chat.whatsapp.com/I6TFnp58CIDE7bKUS3UPBM
-┃✯│
-┃✯│
+┃✯│✨𝘼𝙜𝙜 𝙥𝙖 𝙫𝙚𝙧 𝙚𝙨𝙩𝙖𝙙𝙤♡🌻
+┃✯│https://chat.whatsapp.com/EwweeS3Z0AI3lb0NVglv4g
 ┃✯│𝙆𝘼𝙉𝘼𝙆𝙄𝘽𝙊𝙏/𝘼𝘾𝙏𝙐𝘼𝙇𝙄𝙕𝘼𝘾𝙄𝙊𝙉𝙀𝙎 👾💫
 ┃✯│https://chat.whatsapp.com/KnmflygkQdKBPPfiFMmkIb
 ┃✯│𝙋á𝙜𝙞𝙣𝙖 𝙙𝙚 𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠 
