@@ -26,7 +26,7 @@ if (isUrl(m.text)) stiker = await sticker(false, m.text.split(/\n| /i)[0], packn
 else return
 }
 if (stiker) {
-await conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true, { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ',  mediaType: 2, thumbnail: gataImg, sourceUrl: accountsgb }}}, { quoted: m })
+await conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true, { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: gt, body: ' 🐙 𝗦𝘂𝗽𝗲𝗿 𝐊𝐚𝐧𝐚𝐤𝐢𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ',  mediaType: 2, thumbnail: gataImg, sourceUrl: accountsgb }}}, { quoted: m })
 //this.sendFile(m.chat, stiker, null, { asSticker: true })
 }}
 return !0
