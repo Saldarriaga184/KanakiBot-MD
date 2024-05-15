@@ -19,7 +19,11 @@ img = json.thumbnail.genius;
 const bochil = await googleImage(`${result[0].artist} ${result[0].title}`);
 img = await bochil.getRandom();
 }}
-await conn.sendFile(m.chat, img, 'letra.jpg', `ღ ${mid.smsYT1} :\n💚 *${result[0].title || ''}*\n\nღ ${mid.smsYT2} :\n💜 *${result[0].artist || ''}*\n\nღ ${mid.smsYT3} :\n${lyrics || ''}`, fkontak, false, { contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
+await conn.sendButton(m.chat, `ღ ${mid.smsYT1} :\n💚 *${result[0].title || ''}*\n\nღ ${mid.smsYT2} :\n💜 *${result[0].artist || ''}*\n\nღ ${mid.smsYT3} :\n${lyrics || ''}`, null, img, [
+['𝘿𝙚𝙨𝙘𝙖𝙧𝙜𝙖𝙧 | 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙 🚀', `/play ${text}`],
+['𝙈𝙚𝙣𝙪 𝘽𝙪𝙨𝙦𝙪𝙚𝙙𝙖𝙨 | 𝙎𝙚𝙖𝙧𝙘𝙝𝙚𝙨 🔎', '#buscarmenu'],
+['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']], null, null, m)
+conn.sendFile(m.chat, img, 'letra.jpg', `ღ ${mid.smsYT1} :\n💚 *${result[0].title || ''}*\n\nღ ${mid.smsYT2} :\n💜 *${result[0].artist || ''}*\n\nღ ${mid.smsYT3} :\n${lyrics || ''}`, fkontak, false, { contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}})
 await conn.sendMessage(m.chat, {audio: {url: result[0].preview}, fileName: `${result[0].artist} ${result[0].title}.mp3`, mimetype: 'audio/mp4'}, {quoted: m});
 } catch (e) {
 await conn.reply(m.chat, `${lenguajeGB['smsMalError3']()}#report ${lenguajeGB['smsMensError2']()} ${usedPrefix + command}\n\n${wm}`, fkontak, m)
@@ -31,8 +35,8 @@ handler.help = ['lirik','letra'].map(v => v + ' <Apa>')
 handler.tags = ['internet']
 handler.command = /^(lirik|lyrics|lyric|letra)$/i
 handler.limit = 1
-handler.level = 2
-handler.register = true
+//handler.level = 2
+//handler.register = true
 export default handler
 
 /*import fetch from 'node-fetch'
