@@ -11,7 +11,7 @@ let bot = `${pickRandom([`*¡𝑬𝒚! 𝑨𝒒𝒖í 𝒆𝒔𝒕𝒐𝒚. 𝒀
 if (/^bot$/i.test(m.text)) {
 conn.sendPresenceUpdate('recording', m.chat)    
 await conn.reply(m.chat, bot, m, fake)
-//conn.sendMessage(m.chat, {text: bot, mentions: [m.sender]}, {quoted: fake})
+conn.sendMessage(m.chat, {text: bot, mentions: [m.sender]}, {quoted: fake})
 conn.sendFile(m.chat, vn, 'bot.mp3', null, m, true, { type: 'audioMessage', ptt: true, sendEphemeral: true, quoted: estiloaudio })   
 }
 
@@ -29,7 +29,7 @@ conn.reply(m.chat, `*╭┅〘 ⚠️ 𝗢𝗯𝗲𝗱𝗲𝗰𝗲 𝗹𝗮𝘀 
 ➽❌ 𝐏𝐫𝐨𝐡𝐢𝐛𝐢𝐝𝐨 𝐒𝐩𝐚𝐦 𝐚𝐥 𝐁𝐨𝐭
 ➽❌ 𝐍𝐨 𝐚𝐠𝐫𝐞𝐠𝐚𝐫 𝐚𝐥 𝐁𝐨𝐭
 ➽❌ 𝐑𝐞𝐬𝐩𝐞𝐭𝐚 𝐥𝐨𝐬 𝐭𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐲 𝐜𝐨𝐧𝐝𝐢𝐜𝐢𝐨𝐧𝐞𝐬
-*╰═┅ৡৢ͜͡✦═╡ 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ╞═┅ৡৢ͜͡✦═╯*`, fkontak, m)}
+*╰═┅ৡৢ͜͡✦═╡ 𝘿.𝙀.𝙎.𝙉-𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇17 ╞═┅ৡৢ͜͡✦═╯*`, fkontak, m)}
 
 if (/^Quiero un bot|como obtengo un bot?|Quiero un bot?|quiero un bot|solicitud|solicitó bot|solicito bot|Necesito un bot|necesito un bot$/i.test(m.text) ) {
 conn.reply(m.chat,  `\`⚡¿Quieres un bot para tu grupo?\`
@@ -77,7 +77,7 @@ conn.reply(m.chat, `\`✨ ¿𝐐𝐮𝐞́ 𝐞𝐬 𝐮𝐧 𝐁𝐨𝐭 𝐝�
 🍃 *_Para ver el menú de comandos puedes usar:_*
 #menu
 
-🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈`, m)}  
+👾 𝘿.𝙀.𝙎.𝙉-𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇17 👾`, m)}  
 return !0 
 }
 export default handler
