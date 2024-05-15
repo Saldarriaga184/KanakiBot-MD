@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
-if (!text) throw `${lenguajeGB['smsAvisoMG']()}𝙄𝙉𝙂𝙍𝙀𝙎𝙀 𝙀𝙇 𝙉𝙊𝙈𝘽𝙍𝙀 𝘿𝙀 𝘼𝙇𝙂𝙐𝙈 𝘼𝙍𝙏𝙄𝙎𝙏𝘼 𝘿𝙀 𝙎𝙋𝙊𝙏𝙄𝙁𝙔\n𝙀𝙅𝙀𝙈𝙋𝙇𝙊:\n${usedPrefix + command} tini`
+if (!text) throw `${lenguajeGB['smsAvisoMG']()}𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝙰𝙻𝙶𝚄𝙽 𝙰𝚁𝚃𝙸𝚂𝚃𝙰 𝙳𝙴 𝚂𝙿𝙾𝚃𝙸𝙵𝚈\n𝙴𝙹𝙴𝙼𝙿𝙻𝙾:\n${usedPrefix + command} tini`
 try {
 let resultados = await spotifyxv(text)
 let res = resultados.map((v, i) => {
