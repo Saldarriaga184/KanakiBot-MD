@@ -8,7 +8,7 @@ let pesan = args.join` `
 let oi = `${lenguajeGB.smsAddB5()} _${pesan}_`
 
 let textoA = 
-`*⊱ ──── 《.⋅ 🐈 ⋅.》 ──── ⊰*
+`*⊱ ──── 《.⋅ 👾 ⋅.》 ──── ⊰*
 ෆ ${lenguajeGB.smsAddB3()}
 ෆ ${oi}
 *⊱ ──── 《.⋅ ${vs} ⋅.》 ──── ⊰*`
