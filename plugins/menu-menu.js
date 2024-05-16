@@ -153,58 +153,58 @@ ${margen}
 
 > 🌟 *INFORMACIÓN GENERAL* 🌟 
 
-*❰❰ ${lenguajeGB['smsTotalUsers']()} ❱❱* 
+*❦❦ ${lenguajeGB['smsTotalUsers']()} ❦❦* 
 ➺ \`\`\`${Object.keys(global.db.data.users).length}\`\`\`
 
-*❰❰ Registrados ❱❱* 
+*❦❦ Registrados ❦❦* 
 ➺ \`\`\`${rtotalreg}/${totalreg}\`\`\`    
 
-*❰❰ ${lenguajeGB['smsUptime']()} ❱❱* 
+*❦❦ ${lenguajeGB['smsUptime']()} ❦❦* 
 ➺ \`\`\`${uptime}\`\`\`
 
-*❰❰ ${lenguajeGB['smsVersion']()} ❱❱* 
+*❦❦ ${lenguajeGB['smsVersion']()} ❦❦* 
 ➺ \`\`\`${vs}\`\`\`
 
-*❰❰ ${lenguajeGB['smsMode']()} ❱❱* 
+*❦❦ ${lenguajeGB['smsMode']()} ❦❦* 
 ➺ \`${global.opts['self'] ? `${lenguajeGB['smsModePrivate']().charAt(0).toUpperCase() + lenguajeGB['smsModePrivate']().slice(1).toLowerCase()}` : `${lenguajeGB['smsModePublic']().charAt(0).toUpperCase() + lenguajeGB['smsModePublic']().slice(1).toLowerCase()}`}\`
 
-*❰❰ ${lenguajeGB['smsBanChats']()} ❱❱* 
+*❦❦ ${lenguajeGB['smsBanChats']()} ❦❦* 
 ➺ \`\`\`${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}\`\`\`
 
-*❰❰ ${lenguajeGB['smsBanUsers']()} ❱❱* 
+*❦❦ ${lenguajeGB['smsBanUsers']()} ❦❦* 
 ➺ \`\`\`${Object.entries(global.db.data.users).filter(user => user[1].banned).length}\`\`\`
 
 ${margen}
 
-> ✨ *INFORMACIÓN DEL USUARIO* ✨
+>❦*INFORMACIÓN DEL USUARIO*❦
 
-*❰❰ Tipo de registro ❱❱*
+*❦❦ Tipo de registro ❦❦*
 ➺ ${user.registered === true ? `_${user.registroC === true ? '🗂️ Registro Completo' : '📑 Registro Rápido'}_` : '❌ _Sin registro_'}
 
-*❰❰ Mi estado ❱❱*
+*❦❦ Mi estado ❦❦*
 ➺ ${typeof user.miestado !== 'string' ? '❌ *Establecer usando:* _' + usedPrefix + 'miestado_' : '_Me siento ' + user.miestado + '_'}
 
-*❰❰ Registrado ❱❱*
+*❦❦ Registrado ❦❦*
 ➺ ${user.registered === true ? '✅ Verificado' : '❌ *Establecer registro usando:* _' + usedPrefix + 'verificar_'}
 
-*❰❰ ${lenguajeGB['smsBotonM7']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM7']().slice(1).toLowerCase()} ❱❱* 
+*❦❦ ${lenguajeGB['smsBotonM7']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM7']().slice(1).toLowerCase()} ❦❦* 
 ➺ ${user.premiumTime > 0 ? '✅ Eres usuario Premium' : '❌ *Establecer Premium:* _' + usedPrefix + 'pase premium_'}
 
-*❰❰ ${lenguajeGB['smsBotonM5']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM5']().slice(1).toLowerCase()} ❱❱* 
+*❦❦ ${lenguajeGB['smsBotonM5']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM5']().slice(1).toLowerCase()} ❦❦* 
 ➺ ${role}
 
-*❰❰ ${lenguajeGB['smsBotonM6']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM6']().slice(1).toLowerCase()} ❱❱*
+*❦❦ ${lenguajeGB['smsBotonM6']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM6']().slice(1).toLowerCase()} ❦❦*
 ➺ ${emoji} \`${user.exp - min}/${xp}\`
 
-*❰❰ ${lenguajeGB['smsPareja']()} ❱❱*
+*❦❦ ${lenguajeGB['smsPareja']()} ❦❦*
 ➺ ${pareja ? `${name} 💕 ${conn.getName(pareja)}` : `🛐 ${lenguajeGB['smsResultPareja']()}`}
 
-*❰❰ Pasatiempo(s) ❱❱* 
+*❦❦ Pasatiempo(s) ❦❦* 
 ➺ ${user.pasatiempo === 0 ? '*Sin Registro*' : user.pasatiempo + '\n'}
 
 ${margen}
 
-> 💫 *INFORMACIÓN* 💫\n
+> 🍨 *INFORMACIÓN* 🍨\n
 ${generateCommand(commandsInfo, usedPrefix)}
 
 ${margen}
@@ -214,45 +214,45 @@ ${generateCommand(commandsJadiBot, usedPrefix)}
 
 ${margen}
 
-> 🆘 *REPORTAR COMANDOS* 🆘\n
+> 🍨 *REPORTAR COMANDOS* 🍨\n
 ${generateCommand(commandsReport, usedPrefix)}
 
 ${margen}
 
-> 🪅 *GATABOT TEMPORAL* 🪅\n
+> 🍨 *GATABOT TEMPORAL* 🍨\n
 ${generateCommand(commandsLink, usedPrefix)}
 
 ${margen}
 
-> 🎟️ *SER PREMIUM* 🎟️\n
+> 🍨*SER PREMIUM* 🍨\n
 ${generateCommand(commandsPrem, usedPrefix)}
 
 ${margen}
 
-> 🎡 *JUEGOS* 🎡\n
+> 🍨 *JUEGOS* 🍨\n
 ${generateCommand(commandsGames, usedPrefix)}
 
 ${margen}
 
-> ✨ *IA* ✨\n
+> 🍨 *IA* 🍨\n
 ${generateCommand(commandsAI, usedPrefix)}
 
 ${margen}
 
-> ⚙️ *AJUSTES* ⚙️
+> 🍨 *AJUSTES* 🍨
 ${m.isGroup ? `_✅ ➤ Activado_
 _❌ ➤ Desactivado_` : `Para ver la configuración completa sólo use: *${usedPrefix}on* o *${usedPrefix}off*`}\n
 ${generateCommand(commandsConfig, usedPrefix).replace(/≡/g, '𖡡')}
 
 ${margen}
 
-> 🧾 *AJUSTES/INFO - GRUPO* 🧾
+> 🍨 *AJUSTES/INFO - GRUPO* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}configuracion_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}settings_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}vergrupo_
 
-> 🪄 *DESCARGAS* 🪄
+> 🍨 *DESCARGAS* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}imagen | image *texto*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}pinterest | dlpinterest *texto*_
@@ -282,7 +282,7 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}fraseromantica_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}historia_
 
-> 👤 *CHAT ANONIMO* 👤
+> 🍨 *CHAT ANONIMO* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}chatanonimo | anonimochat_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}anonimoch_
@@ -290,7 +290,7 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}next_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}leave_
 
-> 🌐 *COMANDOS PARA GRUPOS* 🌐
+> 🍨 *COMANDOS PARA GRUPOS* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}add *numero*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}sacar | ban | kick  *@tag*_
@@ -325,7 +325,7 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}on_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}off_
 
-> 💞 *PAREJAS* 💞
+> 🍨 *PAREJAS* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}listaparejas | listship_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}mipareja | mylove_
@@ -334,7 +334,7 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}rechazar | decline *@tag*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}terminar | finish *@tag*_
 
-> 📦 *VOTACIONES EN GRUPOS* 📦
+> 🍨 *VOTACIONES EN GRUPOS* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}crearvoto | startvoto *texto*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}sivotar | upvote_
@@ -342,11 +342,11 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}vervotos | cekvoto_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}delvoto | deletevoto_
 
-> 🔞 *CONTENIDO* 🔞
+> 🍨 *CONTENIDO* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}hornymenu_
 
-> 🔁 *CONVERTIDORES* 🔁
+> 🍨 *CONVERTIDORES* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}toimg | img | jpg *sticker*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}toanime | jadianime *foto*_
@@ -357,12 +357,12 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}toenlace  *video, imagen o audio*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}tts es *texto*_
 
-> 🔆 *LOGOS* 🔆
+> 🍨 *LOGOS* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}logos *efecto texto*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}menulogos2_
 
-> 💥 *EFECTOS* 💥
+> 🍨 *EFECTOS* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}simpcard *@tag*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}hornycard *@tag*_
@@ -372,7 +372,7 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}pixelar_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}blur_
 
-> 🍭 *RANDOM/ANIME* 🍭
+> 🍨 *RANDOM/ANIME* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}chica_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}chico_
@@ -425,7 +425,7 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}sakura_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}cosplay_
 
-> 🎙️ *EFECTO DE AUDIO* 🎙️
+> 🍨 *EFECTO DE AUDIO* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}bass_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}blown_
@@ -512,7 +512,7 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}cofre | abrircofre | coffer_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}trabajar | work_
 
-> 🌟 *RPG Fnatasy* 🌟
+> 🍨 *RPG Fnatasy* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}fantasy | fy_
 ┃✯│⿴⃟ٍࣽ➤ _c_
@@ -552,7 +552,7 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}stickerfilter *efecto : responder a imagen*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}cs *:* cs2_
 
-> 😼 *MODIFICAR STICKERS* 😼
+> 🍨 *MODIFICAR STICKERS* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}wm *packname|author*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}wm *texto1|texto2*_
@@ -565,7 +565,7 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}besar | kiss *@tag*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}alimentar | food *@tag*_
 
-> 💎 *PARA MI CREADOR/A* 💎
+> 🍨 *PARA MI CREADOR/A* 🍨
 
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}join *enlace*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}unete *enlace*_
@@ -596,7 +596,7 @@ ${margen}
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}añadirxp *@tag cantidad*_
 ┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}añadirgatacoins *@tag cantidad*_
 `.trim()
-await conn.sendFile(m.chat, gataImg, 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu }}})
+await conn.sendFile(m.chat, gataImg, 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👾 𝗦𝘂𝗽𝗲𝗿 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu }}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 } catch (e) {
 await m.reply(lenguajeGB['smsMalError3']() + '\n*' + lenguajeGB.smsMensError1() + '*\n*' + usedPrefix + `${lenguajeGB.lenguaje() == 'es' ? 'reporte' : 'report'}` + '* ' + `${lenguajeGB.smsMensError2()} ` + usedPrefix + command)
