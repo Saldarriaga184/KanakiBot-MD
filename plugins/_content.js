@@ -55,18 +55,18 @@ global.accountsgb = [canal1, canal2, canal3, canal4, tk, ig, yt, paypal, fb, ths
 
 // Imágenes 
 global.imagen1 = fs.readFileSync("./media/menus/Menu3.jpg")
-global.imagen2 = fs.readFileSync("./media/menus/img1.jpg")
+global.imagen2 = fs.readFileSync("./media/menus/img1.mp4")
 global.imagen3 = fs.readFileSync("./media/menus/img2.jpg")
 global.imagen4 = fs.readFileSync("./media/menus/img3.jpg")
-global.imagen5 = fs.readFileSync("./media/menus/img4.jpg")
-global.imagen6 = fs.readFileSync("./media/menus/img5.jpg")
-global.imagen7 = fs.readFileSync("./media/menus/img6.jpg")
-global.imagen8 = fs.readFileSync("./media/menus/img7.jpg")
+global.imagen5 = fs.readFileSync("./media/menus/img4.mp4")
+global.imagen6 = fs.readFileSync("./media/menus/img5.mp4")
+global.imagen7 = fs.readFileSync("./media/menus/img6.mp4")
+global.imagen8 = fs.readFileSync("./media/menus/img7.mp4")
 global.imagen9 = fs.readFileSync("./media/menus/img8.jpg")
-global.imagen10 = fs.readFileSync("./media/menus/img9.jpg")
-global.imagen11 = fs.readFileSync("./media/menus/img10.jpg")
-global.imagen12 = fs.readFileSync("./media/menus/img11.jpg")
-global.imagen13 = fs.readFileSync("./media/menus/img12.jpg")
+global.imagen10 = fs.readFileSync("./media/menus/img9.mp4")
+global.imagen11 = fs.readFileSync("./media/menus/img10.mp4")
+global.imagen12 = fs.readFileSync("./media/menus/img11.mp4")
+global.imagen13 = fs.readFileSync("./media/menus/img12.mp4")
 
 global.img = 'https://i.imgur.com/IXlUwTW.jpg'
 global.img2 = 'https://i.imgur.com/EXTbyyn.jpg'
